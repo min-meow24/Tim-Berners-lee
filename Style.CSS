@@ -1,0 +1,25 @@
+body{
+    padding-top: 800px;
+    margin: 0px;
+}
+.photo{
+    margin-bottom: 50px;
+    width: 175px;
+    border-radius: 50%;
+}
+#Welcome{
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: white;
+    left: 0;
+    right: 0;
+    top: 0px;
+    bottom: 0px;
+    opacity: 0.83;
+    background: linear-gradient()
+        display: table;
+    height: 100%;
+    width: 100%;
+    
+}
